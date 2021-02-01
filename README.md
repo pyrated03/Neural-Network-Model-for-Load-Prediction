@@ -1,4 +1,4 @@
-# Neural-Network-Model-for-Load-Prediction
+# Neural-Network-Model-for-Loan-Prediction
 
 ### Data Analysis, Imputing the Data
 We are using the KNN Algorithm for data imputation. Each sample’s missing values are imputed using the mean value from ‘n_neighbours’ nearest neighbours (in our model, we have set ‘n_neighbours’  to 10) found in the training set. 
